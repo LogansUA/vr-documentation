@@ -22,3 +22,5 @@ sidebar_position: 2
 | Loganspala   | 18-12-2025 | [Link](https://armory.warmane.com/character/Loganspala/Icecrown/profile)  |
 | Scriptednoob | 08-01-2026 | [Link](https://armory.warmane.com/character/Scriptednoob/Icecrown/)       |
 | Ferarrior    | 05-02-2026 | [Link](https://armory.warmane.com/character/Ferarrior/Icecrown/profile)   |
+| Zambidis     | 09-04-2026 | [Link](https://armory.warmane.com/character/Zambidis/Icecrown/profile)    |
+| Levtigar     | 23-04-2026 | [Link](https://armory.warmane.com/character/Levtigar/Icecrown/profile)    |
