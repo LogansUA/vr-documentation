@@ -60,6 +60,18 @@ sidebar_position: 5
 1. за повну відсутність дебафу впродовж бою - **30 ДКП відповідальному воїну**
 2. за спадання бафу під час бою - **30 ДКП кожному воїну**
 
+## Варлок
+
+### [Curse of Tongues](https://www.wowhead.com/wotlk/spell=11719/curse-of-tongues) 
+[Curse of Tongues](https://www.wowhead.com/wotlk/spell=11719/curse-of-tongues) - Прокляття яке збільшує час касту боса і має висіти на босах такі як Сіндрагоса і Келесет!
+
+### [Curse of the Elements](https://www.wowhead.com/wotlk/spell=11722/curse-of-the-elements) 
+[Curse of the Elements](https://www.wowhead.com/wotlk/spell=11722/curse-of-the-elements) - Прокляття яке збільшує дамаг від магій стехій і повинно висіти на Лічі коли відбуваються перефази!
+
+#### Штрафи:
+
+за відсутність відповідного дебафу впродовж бою - **30 ДКП відповідальному варлоку**
+
 ## Друїди TBD
 
 ### [Innervate](https://www.wowhead.com/wotlk/spell=29166/innervate)
