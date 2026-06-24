@@ -22,3 +22,4 @@ sidebar_position: 2
 | Zambidis     | 09-04-2026 | [Link](https://armory.warmane.com/character/Zambidis/Icecrown/profile)    |
 | Levtigar     | 23-04-2026 | [Link](https://armory.warmane.com/character/Levtigar/Icecrown/profile)    |
 | Vokner       | 30-04-2026 | [Link](https://armory.warmane.com/character/Vokner/Icecrown/profile)      |
+| Takamusha    | 14-05-2026 | [Link](https://armory.warmane.com/character/Takamusha/Icecrown/profile)   |
