@@ -23,7 +23,19 @@ sidebar_position: 2
 
 ### Icecrown Citadel
 
-TBD
+#### Lord Marrowgar
+
+<div style={{aspectRatio: '16 / 9', width: '100%'}}>
+  <iframe
+    src="https://www.youtube-nocookie.com/embed/PufnD3EJ-3M"
+    title="Lord Marrowgar guide"
+    loading="lazy"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    referrerPolicy="strict-origin-when-cross-origin"
+    allowFullScreen
+    style={{width: '100%', height: '100%', border: 0}}
+  />
+</div>
 
 ### Ruby Sanctum
 
